@@ -1,0 +1,13 @@
+<!--pages/test/test.wxml-->
+<view class="" hover-class="none" hover-stop-propagation="false">
+  <div class="tenxun-map cover">
+    <div class="mapp-app">
+      <iframe src="http://apis.map.qq.com/tools/locpicker?search=1&type=1&key=AMQBZ-SIWEJ-5K5FI-KZTWQ-DMWFF-EAF4H" frameborder="0"></iframe>
+    </div>
+    <!-- <div class="confirm-box">
+      <span @click="asveLocationData">确定</span>
+    </div> -->
+  </div>
+</view>
+<script></script>
+<style lang="less" scoped></style>
